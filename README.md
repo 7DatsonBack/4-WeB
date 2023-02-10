@@ -4,6 +4,7 @@
 <b>
 Q - `How do I deploy?`
 <b>
+<b/>
 A - `The only Deployments available is for Replit.`
 
 
