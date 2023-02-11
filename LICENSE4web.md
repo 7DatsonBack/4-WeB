@@ -18,4 +18,19 @@ __COPYRIGHT__
 
 >ONLY `Four-Web`-`4-Web` Content is available for `Everyone` to state as their own.
 
-__And as, these tools are shown for `Edu`-`Educational` purposes only, and not intended for illegal or harm use, users signing up/using content must be willing to follow these rules:__
+__And as, these tools are shown for__ `Edu`-`Educational` __purposes only, and not intended for illegal or harm use, users signing up/using content must be willing to follow these rules__:
+
+No Illegal use. 
+>Doxing, Abusing Privacy Invaion, Disformation and Misormation, Copying
+
+No Harming use.
+>Bullying, Harassing, Discrimination, Spamming, Overage Content, Harm Towards Users/Peers/Afflitiates/Family/Ect
+
+`Illegal/Legal Part ends Here`
+
+No Overusing.
+>No way to explain/show this.
+
+`License End`
+
+__SPONSERED BY ALIENHUB AND CREDITS TO ULTRAVIOLET, OTHERS__
