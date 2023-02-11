@@ -13,15 +13,19 @@
     font-family: Roboto;
 }
 
-body {
+html, body {
     margin: 0;
-    background: #111;
+    background: #purple;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     animation: fadeInAnimation ease-in-out 0.3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
+}
+
+html, body {
+  background: linear-gradient(to right, #000000, #9b59b6);
 }
 
 .fa-magnifying-glass {
