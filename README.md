@@ -6,4 +6,4 @@ Q - `How do I deploy?`
 
 A - `The only Deployments available is for Replit.`
 
-
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)]()
