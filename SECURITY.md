@@ -31,9 +31,9 @@ Recommended to use the Versions Supported, and Available.
 ________________________________
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.v   | :white_check_mark: |
+| 1.0.v   | :x:                |
 | 1.1.v   | :white_check_mark: |
-| 1.2.v   | :x:                |
+| 1.2.v   | :white_check_mark: |
 | 2.0.+   | :x:                |
 
 
