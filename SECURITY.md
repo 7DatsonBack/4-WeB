@@ -10,7 +10,7 @@ bullying, harm of use, harm towards person, intimidation, harm towards peers/adu
 
 
 
-DDos - 10
+Dos - 10
 
 Bruteforce - 10
 
@@ -31,13 +31,13 @@ Recommended to use the Versions Supported, and Available.
 ________________________________
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.v   | :x:                |
-| 1.1.v   | :white_check_mark: |
+| 1.0.-   | :x:                |
+| 1.1.v   | :x:                |
 | 1.2.v   | :white_check_mark: |
-| 2.0.+   | :x:                |
+| 1.3.v   | :white_check_mark: |
 
 
-## Reporting Glitched
+## Reporting Glitches
 
 Report `Glitches` Using the `Issues` Page.
 
