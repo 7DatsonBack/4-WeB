@@ -23,4 +23,6 @@ A - `The only Deployments available are listed below, And click the button(s).`
 
 ## Warnings
 
-Go to `4-WeB/LICENSE4WEB/` For more info.
+1. Go to `4-WeB/LICENSEWEB/` For more info.
+
+2. [Restriction Help](https://github.com/7DatsonBack/4-WeB/wiki/Circumventing-Deployment-Restrictions)
