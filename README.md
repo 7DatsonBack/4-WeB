@@ -20,3 +20,7 @@ A - `The only Deployments available are listed below, And click the button(s).`
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/7DatsonBack/4-WeB/wiki/Replit)
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://github.com/7DatsonBack/4-WeB/wiki/Heroku)
+
+## Warnings
+
+Go to `4-WeB/LICENSE4WEB/` For more info.
